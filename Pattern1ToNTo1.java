@@ -23,12 +23,18 @@ public class Pattern1ToNTo1 {
            
            for(m = 1;m<=h && h<=n;m++)
            {   
-               
+               if(m==1 && h == 1){
+                   
+               }
+               else
                System.out.print(m);
                
            }
            
            h++;
+           if(k==n){
+           }
+           else
            System.out.println("");
        }
     }
