@@ -1,10 +1,10 @@
 
-package game.with.array;
+package sinkmyship;
 import  java.util.Random;
 
 import  java.util.Scanner;
 
-public class GameWithArray {
+public class SinkMyShip {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
